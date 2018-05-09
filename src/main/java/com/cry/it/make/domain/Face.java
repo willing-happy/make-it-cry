@@ -5,4 +5,7 @@ public class Face {
     public String face() {
         return "smile";
     }
+    public String myFace(){
+        return "cry";
+    }
 }
